@@ -1,0 +1,9 @@
+./cmake-build-asan
+./cmake-build-debug
+./cmake-build-release
+./CMakeLists.txt
+./.idea
+/*.pipe
+/*.sem
+./node_modules
+package-lock.json
